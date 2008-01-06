@@ -20,12 +20,11 @@
 
 chdir(dirname(__FILE__).'/../');
 
-require_once "lib/bootstrap.php";
+require_once 'lib/bootstrap.php';
 
 if (defined('TM_CLI')) {
 	echo "\nThe textmotion engine. http://www.textmotion.org\n";
 	echo "License: MIT license\n";
 	echo "Copyright (c) 2007-2008, J. Carlos Nieto <xiam@menteslibres.org>\n\n";
 }
-
 ?>
