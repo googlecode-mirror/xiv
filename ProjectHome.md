@@ -1,0 +1,1 @@
+xiv (fourteen) is a set of libraries I develop and use on my php-based projects. It is not intended to be useful for anyone but me (it is not well documented), however, the source code may help those who want to write applications from scratch. It is not a complete framework, it is just a small base. xiv is better than nothing :-).
